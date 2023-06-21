@@ -76,10 +76,6 @@ form {
   color: #1c1e21;
 }
 
-/* .line {
-  border: 1px solid #8a8d91;
-} */
-
 .ml-46 {
   margin-left: 46px;
 }
@@ -126,12 +122,20 @@ form {
   color: #ffffff;
 }
 
+.btn-primary:hover {
+  background-color: #1569d6;
+}
+
 .font-roboto {
   font-family: "Roboto", sans-serif;
 }
 
 .btn-green {
   background-color: #42b72a;
+}
+
+.btn-green:hover {
+  background-color: #38a522;
 }
 
 .email,
